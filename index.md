@@ -1,3 +1,4 @@
 # Welcome to my blog
+## Thank you for entering
 
-I'm glad you are here. I plan to talk about ...
+_ WHATS GOING ON IN THIS CRAZY WORLD? _
